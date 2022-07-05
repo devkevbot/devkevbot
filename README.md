@@ -2,7 +2,7 @@
   <a href="https://www.linkedin.com/in/kevinjerome97/" target="_blank" rel="noreferrer noopener">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.kevinjerome.me/" target="_blank" rel="noreferrer noopener">
+  <a href="https://www.kevinjero.me/" target="_blank" rel="noreferrer noopener">
     <img src="https://img.shields.io/badge/Website-My%20website-red?style=for-the-badge&logo=appveyor" alt="Website Badge"/>
   </a>
 </div>
