@@ -1,13 +1,3 @@
-<div id="badges">
-  <a href="https://www.linkedin.com/in/kevinjerome97/" target="_blank" rel="noreferrer noopener">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.kevinjero.me/" target="_blank" rel="noreferrer noopener">
-    <img src="https://img.shields.io/badge/Website-My%20website-red?style=for-the-badge&logo=appveyor" alt="Website Badge"/>
-  </a>
-</div>
-
-
 ## :hammer_and_wrench: Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
