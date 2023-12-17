@@ -16,7 +16,7 @@ I'm a Fullstack Software Developer from Canada.
 
 🎥 I’m building next: I'll get back to you...
 
-💬 Ask me about TypeScript, Hockey, Video Games & more!
+💬 Ask me about React.js, TypeScript, or Node.js
 
 
 ### Languages and Tools
