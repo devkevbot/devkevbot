@@ -37,7 +37,7 @@ I'm a Fullstack Software Developer from Canada.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=devkevbot&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devkevbot)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devkevbot&hide=Vue,CSS,HTML,PlPGSQL&exclude_repo=quick-dnd)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Blog Posts
 
