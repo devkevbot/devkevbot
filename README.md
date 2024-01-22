@@ -10,9 +10,9 @@
 
 I'm a Fullstack Software Developer from Canada.
 
-🎥 I’m currently building: My personal portfolio
+🎥 I’m currently building: My portfolio
 
-🌱 I’m currently learning: Rust
+🌱 I’m currently learning: Clojure
 
 🎥 I’m building next: I'll get back to you...
 
