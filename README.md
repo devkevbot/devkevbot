@@ -8,13 +8,11 @@
 
 ### About Me
 
-I'm a Fullstack Software Developer from Canada.
+I'm a Software Developer from Canada.
 
 🎥 I’m currently building: My portfolio
 
 🌱 I’m currently learning: OCaml
-
-🎥 I’m building next: I'll get back to you...
 
 💬 Ask me about React.js, TypeScript, or Node.js
 
