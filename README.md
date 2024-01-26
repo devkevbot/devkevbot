@@ -12,7 +12,7 @@ I'm a Fullstack Software Developer from Canada.
 
 🎥 I’m currently building: My portfolio
 
-🌱 I’m currently learning: Clojure
+🌱 I’m currently learning: OCaml
 
 🎥 I’m building next: I'll get back to you...
 
