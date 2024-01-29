@@ -12,7 +12,7 @@ I'm a Software Developer from Canada.
 
 🌱 I’m currently learning: OCaml
 
-💬 Ask me about React.js, TypeScript, or Node.js
+💬 Ask me about React.js, TypeScript, Node.js, Python, or Go.
 
 📖 [Blog posts](https://www.kevinjero.me/posts)
 
