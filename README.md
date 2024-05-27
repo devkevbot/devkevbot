@@ -8,11 +8,11 @@
 
 ### About Me
 
-I'm a software developer from Canada.
+Fullstack Software Developer with four years of experience working in small and large teams to develop interactive, user-friendly, and feature-rich web applications. Likes building scalable web infrastructure and making websites fast. Proficient with React, Typescript, Node.js, Python, and Go.
 
 🌱 I’m currently learning: Rust
 
-💬 Ask me about React, TypeScript, Node, Python, or Go.
+💬 Ask me about React, TypeScript, Node.js, Python, or Go.
 
 📖 [Blog posts](https://www.kevinjero.me/posts)
 
