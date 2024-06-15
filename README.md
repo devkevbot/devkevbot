@@ -2,7 +2,7 @@
   <h1>
     Hi
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>,
-    I'm Kevin Jerome
+    I'm Kevin
   </h1>
 </div>
 
@@ -13,8 +13,6 @@ Fullstack Software Developer with four years of experience working in small and 
 🌱 I’m currently learning: Elixir
 
 💬 Ask me about React, TypeScript, Node.js, Python, or Go.
-
-📖 [Blog posts](https://www.kevinjero.me/posts)
 
 ### Languages and Tools
 
