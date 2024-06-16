@@ -8,7 +8,7 @@
 
 ### About Me
 
-Fullstack Software Developer with four years of experience working in small and large teams to develop interactive, user-friendly, and feature-rich web applications. Likes building scalable web infrastructure and making websites fast. Proficient with React, Typescript, Node.js, Python, and Go.
+I am a Software Developer with four years of experience collaborating with both small and large teams to create interactive, user-friendly, and feature-rich web applications. I enjoy building scalable web infrastructures and optimizing website performance. My expertise includes React.js, TypeScript, Node.js, Python, and Go.
 
 🌱 I’m currently learning: Elixir
 
