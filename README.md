@@ -12,8 +12,6 @@ I am a Software Developer with four years of experience collaborating with both 
 
 🌱 I’m currently learning: Elixir
 
-💬 Ask me about React, TypeScript, Node.js, Python, or Go.
-
 ### Languages and Tools
 
 <div>
