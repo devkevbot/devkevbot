@@ -8,7 +8,7 @@
 
 ### About Me
 
-I am a Software Developer with four years of experience collaborating with both small and large teams to create interactive, user-friendly, and feature-rich web applications. I enjoy building scalable web infrastructures and optimizing website performance. My expertise includes React.js, TypeScript, Node.js, Python, and Go.
+Software Developer with 4+ years of experience developing feature-rich web applications. Proficient with React.js, Typescript, Node.js, Python, and Go.
 
 🌱 I’m currently learning: Elixir
 
