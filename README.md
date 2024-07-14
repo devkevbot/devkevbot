@@ -10,7 +10,7 @@
 
 Software Developer with 4+ years of experience developing feature-rich web applications. Proficient with React.js, Typescript, Node.js, Python, and Go.
 
-🌱 I’m currently learning: Elixir
+🌱 I’m currently learning: Elixir & Kotlin
 
 ### Languages and Tools
 
