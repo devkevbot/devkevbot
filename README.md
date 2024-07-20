@@ -8,7 +8,7 @@
 
 ### About Me
 
-I've been a software developer since 2024 and enjoy developing feature-rich web applications.
+I've been a software developer since 2020 and enjoy developing feature-rich web applications.
 
 ### My Stats
 
