@@ -8,7 +8,7 @@
 
 ### About Me
 
-I've been a software developer since 2020 and enjoy developing feature-rich web applications.
+I've been a software developer since 2020. I have experience collaborating with both small and large teams to create interactive, user-friendly, and feature-rich web applications. I enjoy building scalable web infrastructures and optimizing website performance.
 
 ### My Stats
 
